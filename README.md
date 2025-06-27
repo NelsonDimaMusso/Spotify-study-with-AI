@@ -84,20 +84,16 @@ warnings
 
 ## 🚀 Usage
 
-### 1. Data Exploration and Visualization
-```bash
-python data_exploration.py
-```
+### 1. Charging and exploring data
+
 This script will:
 - Load and explore the Spotify dataset
 - Generate visualizations of audio features
 - Create correlation matrices
 - Analyze popularity distributions
 
-### 2. Model Training and Evaluation
-```bash
-python model_training.py
-```
+### 2. Preprocessing and Modelisation
+
 This script will:
 - Preprocess the data (normalization, encoding)
 - Train KNN models for both classification and regression
