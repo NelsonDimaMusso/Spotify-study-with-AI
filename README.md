@@ -72,17 +72,6 @@ The dataset contains Spotify audio features for thousands of songs, including:
 
 ## 🛠️ Installation
 
-1. **Clone the repository**
-```bash
-git clone https://github.com/yourusername/spotify-music-analysis.git
-cd spotify-music-analysis
-```
-
-2. **Install required packages**
-```bash
-pip install -r requirements.txt
-```
-
 3. **Required Libraries**
 ```python
 numpy
@@ -166,6 +155,21 @@ The scripts will create several visualization files:
 3. **Cross-Validation**: 5-fold cross-validation for robust performance estimation
 4. **Model Validation**: Comprehensive evaluation using multiple metrics
 
+## Graphics
+
+![image](https://github.com/user-attachments/assets/b04cc252-8e19-45de-b9e7-46567377307e)
+![image](https://github.com/user-attachments/assets/059e7443-d930-4e0e-a978-4758281db81f)
+![image](https://github.com/user-attachments/assets/69f54808-dc64-4a72-9123-c7b1960c2b2a)
+![image](https://github.com/user-attachments/assets/d7d57263-a63b-4851-bcbc-7a1153367554)
+![image](https://github.com/user-attachments/assets/92b4df7f-0e36-4006-9919-17bdd6dba819)
+![image](https://github.com/user-attachments/assets/9ae61bd4-5147-411f-8bd8-0b257e0b0d3c)
+![image](https://github.com/user-attachments/assets/dd121988-c0af-4e4c-9019-1dad332c8f83)
+![image](https://github.com/user-attachments/assets/3378e9f4-01dd-4c0b-83a0-49d2387ad3b4)
+![image](https://github.com/user-attachments/assets/3518681c-79e8-4856-bedb-6bddc4fcd29e)
+![image](https://github.com/user-attachments/assets/12b688f1-8b14-4412-88da-bc512f3860f2)
+![image](https://github.com/user-attachments/assets/d906cab5-a059-4cdd-843a-a62a1624f0e0)
+
+
 ## 🎯 Future Improvements
 
 - **Feature Engineering**: Incorporate additional features like lyrics sentiment or artist popularity
@@ -211,10 +215,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 ```
-
-## 👥 Authors
-
-- **EHONGO DIMA--MUSSO Nelson** - *Co-developer and analysis*
 
 ## 📚 References
 
